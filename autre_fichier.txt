@@ -4,3 +4,5 @@ ceci est un fichier txt.
 édité dans VIM
 
 il y a des bananes dans le projet
+
+Autre texte ajouter sur GitHub...
