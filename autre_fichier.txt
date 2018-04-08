@@ -1,0 +1,4 @@
+Hello,
+ceci est un fichier txt.
+
+édité dans VIM
